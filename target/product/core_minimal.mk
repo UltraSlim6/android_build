@@ -30,7 +30,6 @@ PRODUCT_PACKAGES += \
     PackageInstaller \
     SettingsProvider \
     Shell \
-    StatementService \
     bcc \
     bu \
     com.android.future.usb.accessory \
